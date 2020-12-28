@@ -9,7 +9,7 @@ Analysis of the Serbian biggest advertising platform for used vehicles (www.polo
 # Data
 The data used is obtained by this same script, using the function go_thru_all_ads().
 It was ran on Monday, 28/DEC/2020, and it saved all 67250 active vehicle ads it found on the website.
-The only preprocessing done is saving basic cars' parameters as appropriate data types and deleting unit labels: 
+The only preprocessing done is saving basic cars' parameters as appropriate data types and deleting unit labels. Also, I removed all of the vehicles with mileage bigger than 400.000 (less than 10 of the vehicles). 
  
 Fields saved are: 
 1. url of the ad
