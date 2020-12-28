@@ -1,5 +1,5 @@
 # babydontlie
-Analysis of the Serbian biggest advertising platform for used vehicles and trying to see if those mileages shown there are trustworthy. 
+Analysis of the Serbian biggest advertising platform for used vehicles (www.polovniautomobili.com) and trying to see if those mileages shown there are trustworthy. 
 
 # Libraries used:
 1. BeautifulSoup for parsing the html pages.
