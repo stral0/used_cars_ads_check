@@ -29,4 +29,11 @@ I devided the vehicles in
 2. Made between 2001 and 2010, and
 3. Made in 2011 or later. 
 
-All of them had almost the same results, which show us that this parameter is not trustworthy.
+Almost all of them had similar results, which show us that this parameter is not trustworthy.
+
+![do2000](https://user-images.githubusercontent.com/18012692/112129578-d8623680-8bc7-11eb-9720-c60f3f2f1998.PNG)
+
+![2001-2010](https://user-images.githubusercontent.com/18012692/112129600-dc8e5400-8bc7-11eb-9e3e-38efb4bb581e.PNG)
+
+![2011-2020](https://user-images.githubusercontent.com/18012692/112129609-df894480-8bc7-11eb-9bc8-cc3b7327afb2.PNG)
+
